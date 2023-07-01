@@ -12,9 +12,6 @@ const Logo = () => {
         </div>
       </Tilt>
     </div>
-      // <div className='ma4 mt0 br2 shadow-2 Logo'>
-      //   <img alt='logo' src={brain}/>
-      // </div>
   );
 }
 
